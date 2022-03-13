@@ -1,2 +1,2 @@
-# clockinpython
-Simple clock in python.
+# Clock
+Simple clock in python. 🐍
